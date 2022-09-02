@@ -11,4 +11,9 @@
     "status": 0,
     "url": "https://www.baidu.com"
   }
+    "bmi": {
+    "status": 0,
+    "ver": 1.0,
+    "url": "https://www.baidu.com"
+  }
 }
